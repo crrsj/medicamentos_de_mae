@@ -58,6 +58,7 @@ Para alterar as quantidades, descrições ou datas de atualização, edite diret
 
 ---
 
-## 🌐 Hospedagem Sugerida
+## 🌐 Hospedagem: 
 
-Para uso restrito ou publicação estática para poucos usuários, recomenda-se a utilização do **GitHub Pages** pela facilidade de deploy e gerenciamento de arquivos estáticos.
+https://crrsj.github.io/medicamentos_de_mae/
+
