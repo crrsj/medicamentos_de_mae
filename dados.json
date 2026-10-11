@@ -2,21 +2,21 @@
 {
 "paciente": "Maria Soledade",
 "medicamento": "Losartana 50mg",
-"quantidade": 6,
+"quantidade": 4,
 "dataAtualizacao": "10/10/2026",
-"descricao": "."
+"descricao": ""
 },
 {
 "paciente": "Maria Soledade",
 "medicamento": "Anlodipino 5mg",
-"quantidade": 21,
+"quantidade": 20,
 "dataAtualizacao": "10/10/2026",
 "descricao": ""
 },
 {
 "paciente": "Maria Soledade",
 "medicamento": "Duloxetina 60mg",
-"quantidade": 9,
+"quantidade": 8,
 "dataAtualizacao": "10/10/2026",
 "descricao": ""
 },  
@@ -24,35 +24,35 @@
 {
 "paciente": "Maria Soledade",
 "medicamento": "Metropolol 25mg",
-"quantidade": 19,
+"quantidade": 8,
 "dataAtualizacao": "10/10/2026",
 "descricao": ""
 },
 {
 "paciente": "Maria Soledade",
 "medicamento": "Lamotrigina 100mg",
-"quantidade": 22,
+"quantidade": 48,
 "dataAtualizacao": "10/10/2026",
 "descricao": ""
 },
 {
 "paciente": "Maria Soledade",
 "medicamento": "Rosuvastatina 20mg",
-"quantidade": 25,
+"quantidade": 24,
 "dataAtualizacao": "10/10/2026",
 "descricao": ""
 },
 {
 "paciente": "Maria Soledade",
 "medicamento": "Trazodona 50mg",
-"quantidade": 29,
+"quantidade": 28,
 "dataAtualizacao": "10/10/2026",
 "descricao": ""
 },
 {
 "paciente": "Maria Soledade",
 "medicamento": "Pregabalina 50mg",
-"quantidade": 55,
+"quantidade": 54,
 "dataAtualizacao": "10/10/2026",
 "descricao": ""
 }
