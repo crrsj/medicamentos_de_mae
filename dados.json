@@ -61,13 +61,13 @@
 "medicamento": "Toragesic 10mg",
 "quantidade": 5,
 "dataAtualizacao": "15/10/2026",
-"descricao": "Horários: 06:00 AM , 14:00 PM , 22:00 AM ,  (em baixo da língua)"
+"descricao": "Horários: 06:00 AM , 14:00 PM , 22:00 PM ,  (em baixo da língua)"
 },
 {
 "paciente": "Maria Soledade Santos",
 "medicamento": "Cefalexina 500mg",
 "quantidade": 22,
 "dataAtualizacao": "15/10/2026",
-"descricao": "Horários:  05:00 AM, 10:00 AM , 16:00 PM , 22:00 AM"
+"descricao": "Horários:  05:00 AM, 10:00 AM , 16:00 PM , 22:00 PM"
 }
 ]
