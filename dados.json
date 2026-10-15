@@ -2,72 +2,72 @@
 {
 "paciente": "Maria Soledade",
 "medicamento": "Losartana 50mg",
-"quantidade": 58,
-"dataAtualizacao": "14/10/2026",
-"descricao": "Horários: 8:00 AM , 20:00 PM "
+"quantidade": 56,
+"dataAtualizacao": "15/10/2026",
+"descricao": "Horários: 8:00 AM , 20:00 PM"
 },
 {
 "paciente": "Maria Soledade",
 "medicamento": "Anlodipino 5mg",
-"quantidade": 73,
-"dataAtualizacao": "14/10/2026",
-"descricao": "Horários: 8:00 AM , 20:00 PM "
+"quantidade": 71,
+"dataAtualizacao": "15/10/2026",
+"descricao": "Horários: 8:00 AM , 20:00 PM"
 },
 {
 "paciente": "Maria Soledade",
 "medicamento": "Duloxetina 60mg",
-"quantidade": 36,
-"dataAtualizacao": "14/10/2026",
+"quantidade": 35,
+"dataAtualizacao": "15/10/2026",
 "descricao": "Horários: 8:00 AM"
 },  
 
 {
 "paciente": "Maria Soledade",
 "medicamento": "Metropolol 25mg",
-"quantidade": 35,
-"dataAtualizacao": "14/10/2026",
+"quantidade": 34,
+"dataAtualizacao": "15/10/2026",
 "descricao": "Horários: 8:00 AM"
 },
 {
 "paciente": "Maria Soledade",
 "medicamento": "Lamotrigina 100mg",
-"quantidade": 44,
-"dataAtualizacao": "14/10/2026",
-"descricao": "Horários: 9:00 AM , 21:00 PM "
+"quantidade": 42,
+"dataAtualizacao": "15/10/2026",
+"descricao": "Horários: 9:00 AM , 21:00 PM"
 },
 {
 "paciente": "Maria Soledade",
 "medicamento": "Rosuvastatina 20mg",
-"quantidade": 21,
-"dataAtualizacao": "14/10/2026",
-"descricao": "Horários: 8:00 AM , 20:00 PM "
+"quantidade": 20,
+"dataAtualizacao": "15/10/2026",
+"descricao": "Horários: 8:00 AM , 20:00 PM"
 },
 {
 "paciente": "Maria Soledade",
 "medicamento": "Trazodona 50mg",
-"quantidade": 25,
-"dataAtualizacao": "14/10/2026",
-"descricao": "Horários: 20:00 PM "
+"quantidade": 24,
+"dataAtualizacao": "15/10/2026",
+"descricao": "Horários: 20:00 PM"
 },
 {
 "paciente": "Maria Soledade",
 "medicamento": "Pregabalina 50mg",
-"quantidade": 51,
-"dataAtualizacao": "14/10/2026",
-"descricao": "Horários: 21:00 PM "
+"quantidade": 50,
+"dataAtualizacao": "15/10/2026",
+"descricao": "Horários: 21:00 PM"
 },
 {
 "paciente": "Maria Soledade",
 "medicamento": "Toragesic 10mg",
-"quantidade": 8,
-"dataAtualizacao": "14/10/2026",
-"descricao": "Horários: 14:00 PM , 22:00 AM , 06:00 AM , (em baixo da língua)"
+"quantidade": 5,
+"dataAtualizacao": "15/10/2026",
+"descricao": "Horários: 06:00 AM , 14:00 PM , 22:00 AM ,  (em baixo da língua)"
 },
 {
 "paciente": "Maria Soledade",
 "medicamento": "Cefalexina 500mg",
-"quantidade": 26,
-"dataAtualizacao": "14/10/2026",
-"descricao": "Horários: 16:00 PM , 22:00 AM , 05:00 AM "
+"quantidade": 22,
+"dataAtualizacao": "15/10/2026",
+"descricao": "Horários:  05:00 AM, 10:00 , 16:00 PM , 22:00 AM"
 }
 ]
