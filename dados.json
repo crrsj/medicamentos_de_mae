@@ -2,57 +2,57 @@
 {
 "paciente": "Maria Soledade Santos",
 "medicamento": "Losartana 50mg",
-"quantidade": 50,
-"dataAtualizacao": "18/10/2026",
+"quantidade": 45,
+"dataAtualizacao": "20/10/2026",
 "descricao": "Horários: 8:00 AM , 20:00 PM"
 },
 {
 "paciente": "Maria Soledade Santos",
 "medicamento": "Anlodipino 5mg",
-"quantidade": 65,
-"dataAtualizacao": "18/10/2026",
+"quantidade": 61,
+"dataAtualizacao": "20/10/2026",
 "descricao": "Horários: 8:00 AM , 20:00 PM"
 },
 {
 "paciente": "Maria Soledade Santos",
 "medicamento": "Duloxetina 60mg",
-"quantidade": 32,
-"dataAtualizacao": "18/10/2026",
+"quantidade": 29,
+"dataAtualizacao": "20/10/2026",
 "descricao": "Horários: 8:00 AM"
 },  
 
 {
 "paciente": "Maria Soledade Santos",
 "medicamento": "Metropolol 25mg",
-"quantidade": 31,
+"quantidade": 29,
 "dataAtualizacao": "18/10/2026",
 "descricao": "Horários: 8:00 AM"
 },
 {
 "paciente": "Maria Soledade Santos",
 "medicamento": "Lamotrigina 100mg",
-"quantidade": 38,
+"quantidade": 31,
 "dataAtualizacao": "18/10/2026",
 "descricao": "Horários: 9:00 AM , 21:00 PM"
 },
 {
 "paciente": "Maria Soledade Santos",
 "medicamento": "Rosuvastatina 20mg",
-"quantidade": 16,
+"quantidade": 15,
 "dataAtualizacao": "18/10/2026",
 "descricao": "Horários: 8:00 AM , 20:00 PM"
 },
 {
 "paciente": "Maria Soledade Santos",
 "medicamento": "Trazodona 50mg",
-"quantidade": 21,
+"quantidade": 19,
 "dataAtualizacao": "18/10/2026",
 "descricao": "Horários: 20:00 PM"
 },
 {
 "paciente": "Maria Soledade Santos",
 "medicamento": "Pregabalina 50mg",
-"quantidade": 48,
+"quantidade": 45,
 "dataAtualizacao": "18/10/2026",
 "descricao": "Horários: 21:00 PM"
 },
@@ -66,7 +66,7 @@
 {
 "paciente": "Maria Soledade Santos",
 "medicamento": "Cefalexina 500mg",
-"quantidade": 10,
+"quantidade": 4,
 "dataAtualizacao": "18/10/2026",
 "descricao": "Horários:  05:00 AM, 10:00 AM , 16:00 PM , 22:00 PM"
 }
