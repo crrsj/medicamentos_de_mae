@@ -2,72 +2,72 @@
 {
 "paciente": "Maria Soledade Santos",
 "medicamento": "Losartana 50mg",
-"quantidade": 41,
-"dataAtualizacao": "22/10/2026",
+"quantidade": 39,
+"dataAtualizacao": "23/10/2026",
 "descricao": "Horários: 8:00 AM , 20:00 PM"
 },
 {
 "paciente": "Maria Soledade Santos",
 "medicamento": "Anlodipino 5mg",
-"quantidade": 57,
-"dataAtualizacao": "22/10/2026",
+"quantidade": 55,
+"dataAtualizacao": "23/10/2026",
 "descricao": "Horários: 8:00 AM , 20:00 PM"
 },
 {
 "paciente": "Maria Soledade Santos",
 "medicamento": "Duloxetina 60mg",
-"quantidade": 27,
-"dataAtualizacao": "22/10/2026",
+"quantidade": 26,
+"dataAtualizacao": "23/10/2026",
 "descricao": "Horários: 8:00 AM"
 },  
 
 {
 "paciente": "Maria Soledade Santos",
 "medicamento": "Metropolol 25mg",
-"quantidade": 27,
-"dataAtualizacao": "22/10/2026",
+"quantidade": 26,
+"dataAtualizacao": "23/10/2026",
 "descricao": "Horários: 8:00 AM"
 },
 {
 "paciente": "Maria Soledade Santos",
 "medicamento": "Lamotrigina 100mg",
-"quantidade": 27,
-"dataAtualizacao": "22/10/2026",
+"quantidade": 25,
+"dataAtualizacao": "23/10/2026",
 "descricao": "Horários: 9:00 AM , 21:00 PM"
 },
 {
 "paciente": "Maria Soledade Santos",
 "medicamento": "Rosuvastatina 20mg",
-"quantidade": 13,
-"dataAtualizacao": "22/10/2026",
+"quantidade": 12,
+"dataAtualizacao": "23/10/2026",
 "descricao": "Horários: 8:00 AM , 20:00 PM"
 },
 {
 "paciente": "Maria Soledade Santos",
 "medicamento": "Trazodona 50mg",
-"quantidade": 17,
-"dataAtualizacao": "22/10/2026",
+"quantidade": 16,
+"dataAtualizacao": "23/10/2026",
 "descricao": "Horários: 20:00 PM"
 },
 {
 "paciente": "Maria Soledade Santos",
 "medicamento": "Pregabalina 50mg",
-"quantidade": 43,
-"dataAtualizacao": "22/10/2026",
+"quantidade": 42,
+"dataAtualizacao": "23/10/2026",
 "descricao": "Horários: 21:00 PM"
 },
 {
 "paciente": "Maria Soledade Santos",
 "medicamento": "Toragesic 10mg",
 "quantidade": 0,
-"dataAtualizacao": "22/10/2026",
+"dataAtualizacao": "23/10/2026",
 "descricao": "Horários: 06:00 AM , 14:00 PM , 22:00 PM ,(em baixo da língua)"
 },
 {
 "paciente": "Maria Soledade Santos",
 "medicamento": "Cefalexina 500mg",
 "quantidade": 0,
-"dataAtualizacao": "22/10/2026",
+"dataAtualizacao": "23/10/2026",
 "descricao": "Horários:  05:00 AM, 10:00 AM , 16:00 PM , 22:00 PM"
 }
 ]
