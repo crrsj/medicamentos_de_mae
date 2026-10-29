@@ -55,19 +55,6 @@
 "quantidade": 36,
 "dataAtualizacao": "29/10/2026",
 "descricao": "Horários: 21:00 PM"
-},
-{
-"paciente": "Maria Soledade Santos",
-"medicamento": "Toragesic 10mg",
-"quantidade": 0,
-"dataAtualizacao": "29/10/2026",
-"descricao": "Horários: 06:00 AM , 14:00 PM , 22:00 PM ,(em baixo da língua)"
-},
-{
-"paciente": "Maria Soledade Santos",
-"medicamento": "Cefalexina 500mg",
-"quantidade": 0,
-"dataAtualizacao": "29/10/2026",
-"descricao": "Horários: 05:00 AM, 10:00 AM , 16:00 PM , 22:00 PM"
 }
+
 ]
