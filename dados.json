@@ -2,66 +2,66 @@
 {
 "paciente": "Maria Soledade Santos",
 "medicamento": "Losartana 50mg",
-"quantidade": 12,
-"dataAtualizacao": "05/11/2026",
+"quantidade": 10,
+"dataAtualizacao": "06/11/2026",
 "descricao": "Horários: 8:00 AM , 20:00 PM"
 },
 {
 "paciente": "Maria Soledade Santos",
 "medicamento": "Anlodipino 5mg",
-"quantidade": 30,
-"dataAtualizacao": "05/11/2026",
+"quantidade": 28,
+"dataAtualizacao": "06/11/2026",
 "descricao": "Horários: 8:00 AM , 20:00 PM"
 },
 {
 "paciente": "Maria Soledade Santos",
 "medicamento": "Duloxetina 60mg",
-"quantidade": 12,
-"dataAtualizacao": "05/11/2026",
+"quantidade": 10,
+"dataAtualizacao": "06/11/2026",
 "descricao": "Horários: 8:00 AM"
 },  
 
 {
 "paciente": "Maria Soledade Santos",
 "medicamento": "Metropolol 25mg",
-"quantidade": 13,
-"dataAtualizacao": "05/11/2026",
+"quantidade": 11,
+"dataAtualizacao": "06/11/2026",
 "descricao": "Horários: 8:00 AM"
 },
 {
 "paciente": "Maria Soledade Santos",
 "medicamento": "Lamotrigina 100mg",
-"quantidade": 58,
-"dataAtualizacao": "05/11/2026",
+"quantidade": 56,
+"dataAtualizacao": "06/11/2026",
 "descricao": "Horários: 9:00 AM , 21:00 PM"
 },
 {
 "paciente": "Maria Soledade Santos",
 "medicamento": "Rosuvastatina 20mg",
-"quantidade": 30,
-"dataAtualizacao": "05/11/2026",
+"quantidade": 29,
+"dataAtualizacao": "06/11/2026",
 "descricao": "Horários: 8:00 AM , 20:00 PM"
 },
 {
 "paciente": "Maria Soledade Santos",
 "medicamento": "Trazodona 50mg",
-"quantidade": 57,
-"dataAtualizacao": "05/11/2026",
+"quantidade": 56,
+"dataAtualizacao": "06/11/2026",
 "descricao": "Horários: 20:00 PM"
 },
 {
 "paciente": "Maria Soledade Santos",
 "medicamento": "Pregabalina 50mg",
-"quantidade": 30,
-"dataAtualizacao": "05/11/2026",
+"quantidade": 29,
+"dataAtualizacao": "06/11/2026",
 "descricao": "Horários: 21:00 PM"
 },
 
 {
 "paciente": "Maria Soledade Santos",
 "medicamento": "Topiramato 25mg",
-"quantidade": 57,
-"dataAtualizacao": "05/11/2026",
+"quantidade": 56,
+"dataAtualizacao": "06/11/2026",
 "descricao": "Horários: 20:00 PM"
 }
 
