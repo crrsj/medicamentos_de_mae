@@ -4,7 +4,7 @@
 "medicamento": "Losartana 50mg",
 "quantidade": 113,
 "dataAtualizacao": "18/11/2026",
-"descricao": "Horários: 8:00 AM , 20:00 PM"
+"descricao": "Horários: 8:00 AM "
 },
 {
 "paciente": "Maria Soledade Santos",
@@ -18,7 +18,8 @@
 "medicamento": "Duloxetina 60mg",
 "quantidade": 30,
 "dataAtualizacao": "18/11/2026",
-"descricao": "Horários: 8:00 AM"
+"descricao": "Horários: 8:00 AM , 30mg, dois ao dia."
+
 },  
 
 {
